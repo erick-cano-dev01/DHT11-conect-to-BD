@@ -30,7 +30,9 @@ Cambia el nombre de la base de datos (Initial Catalog) y el origen de datos (Dat
 
 csharp
 string cadenaConexion = "Data Source=TU_SERVIDOR;Initial Catalog=TU_BASE_DE_DATOS;Integrated Security=True;";
+
 Ejecución
+
 3. Ejecuta el proyecto desde Visual Studio.
 
 Asegúrate de que el microcontrolador esté enviando datos por el puerto serial.
@@ -38,6 +40,7 @@ Asegúrate de que el microcontrolador esté enviando datos por el puerto serial.
 Los datos se mostrarán en la interfaz y se guardarán en la base de datos.
 
 Pruebas
+
 4. Verifica que los datos se reciban correctamente desde el puerto serial.
 
 Confirma que se registren en la base de datos.
