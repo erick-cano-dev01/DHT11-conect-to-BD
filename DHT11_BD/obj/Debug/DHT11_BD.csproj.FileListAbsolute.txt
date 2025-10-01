@@ -1,0 +1,16 @@
+C:\Users\erick\Downloads\C#\DHT11_BD\DHT11_BD\bin\Debug\DHT11_BD.exe.config
+C:\Users\erick\Downloads\C#\DHT11_BD\DHT11_BD\bin\Debug\DHT11_BD.exe
+C:\Users\erick\Downloads\C#\DHT11_BD\DHT11_BD\bin\Debug\DHT11_BD.pdb
+C:\Users\erick\Downloads\C#\DHT11_BD\DHT11_BD\bin\Debug\NCapa.dll
+C:\Users\erick\Downloads\C#\DHT11_BD\DHT11_BD\bin\Debug\DCapa.dll
+C:\Users\erick\Downloads\C#\DHT11_BD\DHT11_BD\bin\Debug\NCapa.pdb
+C:\Users\erick\Downloads\C#\DHT11_BD\DHT11_BD\bin\Debug\DCapa.pdb
+C:\Users\erick\Downloads\C#\DHT11_BD\DHT11_BD\obj\Debug\DHT11_BD.csproj.AssemblyReference.cache
+C:\Users\erick\Downloads\C#\DHT11_BD\DHT11_BD\obj\Debug\DHT11_BD.Form1.resources
+C:\Users\erick\Downloads\C#\DHT11_BD\DHT11_BD\obj\Debug\DHT11_BD.Properties.Resources.resources
+C:\Users\erick\Downloads\C#\DHT11_BD\DHT11_BD\obj\Debug\DHT11_BD.csproj.GenerateResource.cache
+C:\Users\erick\Downloads\C#\DHT11_BD\DHT11_BD\obj\Debug\DHT11_BD.csproj.CoreCompileInputs.cache
+C:\Users\erick\Downloads\C#\DHT11_BD\DHT11_BD\obj\Debug\DHT11_BD.csproj.Up2Date
+C:\Users\erick\Downloads\C#\DHT11_BD\DHT11_BD\obj\Debug\DHT11_BD.exe
+C:\Users\erick\Downloads\C#\DHT11_BD\DHT11_BD\obj\Debug\DHT11_BD.pdb
+C:\Users\erick\Downloads\C#\DHT11_BD\DHT11_BD\obj\Debug\DHT11_BD.exe.config

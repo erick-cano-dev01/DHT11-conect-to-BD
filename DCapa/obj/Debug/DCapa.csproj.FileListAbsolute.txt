@@ -1,0 +1,6 @@
+C:\Users\erick\Downloads\C#\DHT11_BD\DCapa\bin\Debug\DCapa.dll
+C:\Users\erick\Downloads\C#\DHT11_BD\DCapa\bin\Debug\DCapa.pdb
+C:\Users\erick\Downloads\C#\DHT11_BD\DCapa\obj\Debug\DCapa.csproj.AssemblyReference.cache
+C:\Users\erick\Downloads\C#\DHT11_BD\DCapa\obj\Debug\DCapa.csproj.CoreCompileInputs.cache
+C:\Users\erick\Downloads\C#\DHT11_BD\DCapa\obj\Debug\DCapa.dll
+C:\Users\erick\Downloads\C#\DHT11_BD\DCapa\obj\Debug\DCapa.pdb

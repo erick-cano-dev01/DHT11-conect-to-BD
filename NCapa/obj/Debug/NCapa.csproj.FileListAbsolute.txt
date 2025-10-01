@@ -1,0 +1,9 @@
+C:\Users\erick\Downloads\C#\DHT11_BD\NCapa\bin\Debug\NCapa.dll
+C:\Users\erick\Downloads\C#\DHT11_BD\NCapa\bin\Debug\NCapa.pdb
+C:\Users\erick\Downloads\C#\DHT11_BD\NCapa\bin\Debug\DCapa.dll
+C:\Users\erick\Downloads\C#\DHT11_BD\NCapa\bin\Debug\DCapa.pdb
+C:\Users\erick\Downloads\C#\DHT11_BD\NCapa\obj\Debug\NCapa.csproj.AssemblyReference.cache
+C:\Users\erick\Downloads\C#\DHT11_BD\NCapa\obj\Debug\NCapa.csproj.CoreCompileInputs.cache
+C:\Users\erick\Downloads\C#\DHT11_BD\NCapa\obj\Debug\NCapa.csproj.Up2Date
+C:\Users\erick\Downloads\C#\DHT11_BD\NCapa\obj\Debug\NCapa.dll
+C:\Users\erick\Downloads\C#\DHT11_BD\NCapa\obj\Debug\NCapa.pdb
